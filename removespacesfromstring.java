@@ -12,3 +12,7 @@ class Tester{
 		System.out.println(str);
 	}
 }
+
+
+//Output:
+//HelloHowareyou
